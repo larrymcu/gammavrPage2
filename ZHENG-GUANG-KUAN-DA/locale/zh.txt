@@ -1,0 +1,34 @@
+#: locale=zh
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 寬大正光建設
+
+## Media
+
+### Title
+album_C79E0612_D61E_1F8F_41CC_3BD1CD6BB6AA.label = Photo Album A1
+album_C79E0612_D61E_1F8F_41CC_3BD1CD6BB6AA_0.label = A1
+album_C79E0612_D61E_1F8F_41CC_3BD1CD6BB6AA_1.label = A2
+album_C79E0612_D61E_1F8F_41CC_3BD1CD6BB6AA_2.label = A3
+album_C79E0612_D61E_1F8F_41CC_3BD1CD6BB6AA_3.label = A4
+album_C79E0612_D61E_1F8F_41CC_3BD1CD6BB6AA_4.label = A5
+album_C79E0612_D61E_1F8F_41CC_3BD1CD6BB6AA_5.label = A6
+album_C79E0612_D61E_1F8F_41CC_3BD1CD6BB6AA_6.label = A7
+panorama_88431345_831B_056D_41DB_564F8D47960F.label = 26公尺 (1)
+panorama_88EEB4B8_831D_0324_41DB_5760B4BCD79C.label = 46公尺
+video_904257F2_832D_0D24_41AB_691CCDB8EBA0.label = 白天
+video_9E7C681D_901A_6C4E_419F_04D5083F6E97.label = 晚上-3
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_911B4FF2_83EE_FD24_41CD_4567CED26277.toolTip = 寬大46公尺環景
+HotspotPanoramaOverlayArea_91FE3CEB_83E5_0324_41C6_B4ED5F6F416F.toolTip = 寬大26公尺日轉夜
+HotspotPanoramaOverlayArea_91FEB550_83E7_0D64_41BE_1EA5B91567D8.toolTip = 街
+HotspotPanoramaOverlayArea_92482662_83E5_0F27_41C1_ED79BDFC9FDA.toolTip = 權
+HotspotPanoramaOverlayArea_941A2652_98C9_A3A6_41D3_C34BA8F5339B.toolTip = 星巴克Starbucks
+HotspotPanoramaOverlayArea_95055B04_98CB_61A2_41B3_284B2D8E8047.toolTip = 寶雅

@@ -1,0 +1,28 @@
+#: locale=zh
+
+## 虛擬導覽
+
+### 說明
+
+### 標題
+tour.name = 自然興
+
+## 介面
+
+### 工具提示
+IconButton_4DE0B266_55A5_9574_41CC_60D3893749DD.toolTip = 地圖
+IconButton_4DE0B266_55A5_9574_41CC_60D3893749DD_mobile.toolTip = 地圖
+
+## 媒體
+
+### 標題
+panorama_51511993_5DB9_BDE8_41CE_CA7625A05A3E.label = DJI_0148_210531
+panorama_B9CFB7AD_B4E9_9573_419A_3A241911757E.label = DJI_0001_210531
+
+## 熱點
+
+### 工具提示
+HotspotPanoramaOverlayArea_8E8C5B70_9E70_52A8_41CF_AF6AB50EF8F2.toolTip = 臺灣銀行
+HotspotPanoramaOverlayArea_90856EA7_9E30_D3A8_41B0_3B89F55CDB28.toolTip = 安順國小
+HotspotPanoramaOverlayArea_9132465E_9E10_B299_41DB_D87CFFDE595B.toolTip = 安順國小
+HotspotPanoramaOverlayArea_93878F75_9E71_D2AB_41D0_CAE32A4BE61E.toolTip = 家樂福

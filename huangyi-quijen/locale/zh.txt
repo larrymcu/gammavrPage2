@@ -1,0 +1,20 @@
+#: locale=zh
+
+## 虛擬導覽
+
+### 說明
+
+### 標題
+tour.name = 歸仁皇邑
+
+## 媒體
+
+### 標題
+panorama_E1648FE7_E13A_8BE1_41D3_F7000582EAD2.label = 60-2-2
+panorama_FE00163C_E13B_9C67_41D8_C85EAA474FEB.label = 60-3-2
+
+## 熱點
+
+### 工具提示
+HotspotPanoramaOverlayArea_D2C887F7_DF26_9BE1_41CC_6F83A751AABF.toolTip = 大灣商圈
+HotspotPanoramaOverlayArea_FA1072FE_F4BC_2F7A_41D2_E1C1A5855A43.toolTip = 南科工業園區
